@@ -1,4 +1,3 @@
---JESSIE BARTOLOME
 SELECT 
     ttd.TransDescription,
     cd.CompanyName,
