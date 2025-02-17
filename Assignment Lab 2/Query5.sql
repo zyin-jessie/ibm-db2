@@ -1,4 +1,3 @@
---JESSIE BARTOLOME
 SELECT 
     dd.CalYear,
     dd.CalQuarter,
